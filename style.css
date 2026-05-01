@@ -1,0 +1,66 @@
+h2{
+     color: rgb(27, 50, 224);
+} */
+* .subtitile{
+     color: rgb(57, 219, 92);
+}
+#title{
+     color: rgb(238, 241, 241);
+}
+*{
+    
+     /* color: rgb(219, 218, 224); */
+
+}
+h1,h2{
+    text-align: center; 
+    color: white;
+}
+h1{
+     color: rgb(252, 194, 6);
+}
+p{
+   color: aquamarine;  
+}
+body{
+     /* background-color: rgb(229, 164, 34); 
+     background: linear-gradient(to bottom,rgb(192, 224, 8) ,rgb(165, 47, 75) );
+     background-repeat: no-repeat;
+     background-attachment: fixed;*/
+     
+background-image:url("../images/image.png") ;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+h2{
+     background-color: rgb(205, 34, 34);
+}
+/* border */ 
+ p{
+     border-style: solid;
+     border-color: rgb(15, 185, 69);
+     border-width: 2px;
+     border-radius: 10px 12px 2px 10px ;
+}
+h2,p{
+     
+     border-width: 2px;
+     border-style:solid ;
+     border-color: black;
+     border-radius:10px 10px 5px 10px ;
+     border-left-color: green;
+     border-top-color: aqua;
+     border-bottom-color: chartreuse;
+     border-right-color: darkgoldenrod;
+     border-left-width: 10px;
+     border-right-style: dashed;
+}
+body{
+  /* border: 2px solid rgb(195, 248, 3);  */
+
+}
+.para2{
+   margin-top: 50px; 
+   margin-left: 50px; 
+}
